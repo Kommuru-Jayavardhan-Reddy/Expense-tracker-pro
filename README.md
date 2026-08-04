@@ -31,7 +31,6 @@ ExpenseTrackerPro/
 ├── 🛠️ utils.py
 ├── 📋 README.md
 ├── 📦 requirements.txt
-└── 📸 screenshots/
 ```
 
 ---
