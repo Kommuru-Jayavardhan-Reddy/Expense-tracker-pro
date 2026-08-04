@@ -80,21 +80,24 @@ python expense_tracker.py
 
 ### 🏠 Main Menu
 
-> *(Add your Main Menu screenshot here)*
+
+<img width="1747" height="751" alt="image" src="https://github.com/user-attachments/assets/7e1f9b8b-09dc-4890-8232-85ad2c679829" />
+
 
 ### ➕ Add Expense
 
-> *(Add your Add Expense screenshot here)*
+<img width="882" height="850" alt="image" src="https://github.com/user-attachments/assets/171bebc5-156e-4416-b3c0-2b1b168aaa40" />
+
 
 ### 📋 View Expenses
 
-> *(Add your View Expenses screenshot here)*
+<img width="847" height="819" alt="image" src="https://github.com/user-attachments/assets/43b873ec-42f3-4641-8fa8-5ba7cede51d2" />
+
 
 ### 📊 Expense Summary
 
 > *(Add your Summary screenshot here)*
 
----
 
 ## 🚀 Future Enhancements
 
