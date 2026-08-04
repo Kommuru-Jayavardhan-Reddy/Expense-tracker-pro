@@ -88,11 +88,11 @@ python expense_tracker.py
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/7e1f9b8b-09dc-4890-8232-85ad2c679829" width="380">
+<img src="https://github.com/user-attachments/assets/7e1f9b8b-09dc-4890-8232-85ad2c679829" width="300">
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/171bebc5-156e-4416-b3c0-2b1b168aaa40" width="380">
+<img src="https://github.com/user-attachments/assets/171bebc5-156e-4416-b3c0-2b1b168aaa40" width="300">
 </td>
 </tr>
 
@@ -103,11 +103,11 @@ python expense_tracker.py
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/43b873ec-42f3-4641-8fa8-5ba7cede51d2" width="380">
+<img src="https://github.com/user-attachments/assets/43b873ec-42f3-4641-8fa8-5ba7cede51d2" width="300">
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/0443c542-9ba1-4326-8c15-eb2044f9c310" width="380">
+<img src="https://github.com/user-attachments/assets/0443c542-9ba1-4326-8c15-eb2044f9c310" width="300">
 </td>
 </tr>
 </table>
