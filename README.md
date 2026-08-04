@@ -96,7 +96,8 @@ python expense_tracker.py
 
 ### 📊 Expense Summary
 
-> *(Add your Summary screenshot here)*
+<img width="1361" height="372" alt="image" src="https://github.com/user-attachments/assets/0443c542-9ba1-4326-8c15-eb2044f9c310" />
+
 
 
 ## 🚀 Future Enhancements
