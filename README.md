@@ -1,6 +1,6 @@
 # 💰 Expense Tracker Pro
 
-A professional **console-based Expense Management Application** developed using **Python** and **SQL**. The application enables users to efficiently manage daily expenses by recording, updating, searching, and analyzing expense records. It demonstrates Python programming, SQL, Object-Oriented Programming (OOP), exception handling, and database management.
+A professional **console-based Expense Management Application** developed using **Python** and **SQLite**. The application enables users to efficiently manage daily expenses by recording, updating, searching, and analyzing expense records. It demonstrates Python programming, SQL, Object-Oriented Programming (OOP), exception handling, and database management.
 
 ---
 
@@ -78,27 +78,39 @@ python expense_tracker.py
 
 ## 📸 Screenshots
 
-### 🏠 Main Menu
+<table>
+<tr>
+<td align="center"><b>🏠 Main Menu</b></td>
+<td align="center"><b>➕ Add Expense</b></td>
+</tr>
 
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/7e1f9b8b-09dc-4890-8232-85ad2c679829" width="420">
+</td>
 
-<img width="1747" height="751" alt="image" src="https://github.com/user-attachments/assets/7e1f9b8b-09dc-4890-8232-85ad2c679829" />
+<td>
+<img src="https://github.com/user-attachments/assets/171bebc5-156e-4416-b3c0-2b1b168aaa40" width="420">
+</td>
+</tr>
 
+<tr>
+<td align="center"><b>📋 View Expenses</b></td>
+<td align="center"><b>📊 Expense Summary</b></td>
+</tr>
 
-### ➕ Add Expense
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/43b873ec-42f3-4641-8fa8-5ba7cede51d2" width="420">
+</td>
 
-<img width="882" height="850" alt="image" src="https://github.com/user-attachments/assets/171bebc5-156e-4416-b3c0-2b1b168aaa40" />
+<td>
+<img src="https://github.com/user-attachments/assets/0443c542-9ba1-4326-8c15-eb2044f9c310" width="420">
+</td>
+</tr>
+</table>
 
-
-### 📋 View Expenses
-
-<img width="847" height="819" alt="image" src="https://github.com/user-attachments/assets/43b873ec-42f3-4641-8fa8-5ba7cede51d2" />
-
-
-### 📊 Expense Summary
-
-<img width="1361" height="372" alt="image" src="https://github.com/user-attachments/assets/0443c542-9ba1-4326-8c15-eb2044f9c310" />
-
-
+---
 
 ## 🚀 Future Enhancements
 
@@ -116,9 +128,9 @@ python expense_tracker.py
 
 🎓 B.Tech – Computer Science (AI & Data Science)
 
-📧 Email: **jayavardhanreddy6021@gmail.com**
+📧 **Email:** <jayavardhanreddy6021@gmail.com>
 
-🌐 GitHub: **https://github.com/Kommuru-Jayavardhan-Reddy**
+🌐 **GitHub:** https://github.com/Kommuru-Jayavardhan-Reddy
 
 ---
 
