@@ -1,7 +1,11 @@
-💰 Expense Tracker Pro
-A console-based **Expense Management Application** developed using **Python** and **SQLite**. This application helps users efficiently manage daily expenses by recording, organizing, updating, and analyzing expense records. It demonstrates Python programming, SQL, Object-Oriented Programming (OOP), and database management concepts.
+# 💰 Expense Tracker Pro
 
-✨ Features
+A professional **console-based Expense Management Application** developed using **Python** and **SQL**. The application enables users to efficiently manage daily expenses by recording, updating, searching, and analyzing expense records. It demonstrates Python programming, SQL, Object-Oriented Programming (OOP), exception handling, and database management.
+
+---
+
+## ✨ Features
+
 - ➕ Add Expense
 - 📋 View All Expenses
 - ✏️ Update Expense
@@ -14,7 +18,10 @@ A console-based **Expense Management Application** developed using **Python** an
 - ✅ Input Validation
 - ⚠️ Exception Handling
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
+
 - 🐍 Python
 - 🗄️ SQLite
 - 💾 SQL
@@ -22,34 +29,38 @@ A console-based **Expense Management Application** developed using **Python** an
 - 📅 Datetime
 - 🏗️ Object-Oriented Programming (OOP)
 
+---
+
 ## 📂 Project Structure
 
+```text
 ExpenseTrackerPro/
 │
-├── 📄 expense_tracker.py
-├── 🗄️ database.py
-├── 🛠️ utils.py
-├── 📋 README.md
-├── 📦 requirements.txt
+├── expense_tracker.py
+├── database.py
+├── utils.py
+├── requirements.txt
+├── README.md
+└── screenshots/
 ```
 
 ---
 
 ## ⚙️ Installation
 
-1️⃣ Clone the repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/Kommuru-Jayavardhan-Reddy/Expense-tracker-pro.git
 ```
 
-2️⃣ Navigate to the project folder
+### 2️⃣ Navigate to the Project Folder
 
 ```bash
-cd ExpenseTrackerPro
+cd Expense-tracker-pro
 ```
 
-3️⃣ Install the required dependencies
+### 3️⃣ Install Required Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -63,13 +74,35 @@ pip install -r requirements.txt
 python expense_tracker.py
 ```
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Main Menu
+
+> *(Add your Main Menu screenshot here)*
+
+### ➕ Add Expense
+
+> *(Add your Add Expense screenshot here)*
+
+### 📋 View Expenses
+
+> *(Add your View Expenses screenshot here)*
+
+### 📊 Expense Summary
+
+> *(Add your Summary screenshot here)*
+
+---
 
 ## 🚀 Future Enhancements
 
 - 🔐 User Authentication
-- 🖥️ GUI Version
+- 🖥️ GUI Version (Tkinter)
 - 📈 Charts & Reports
-- ☁️ Cloud Database Support
+- ☁️ Cloud Database Integration
+- 📱 Web-Based Expense Tracker
 
 ---
 
@@ -79,10 +112,10 @@ python expense_tracker.py
 
 🎓 B.Tech – Computer Science (AI & Data Science)
 
-📧 Email: jayavardhanreddy6021@gmaiL.COM
+📧 Email: **jayavardhanreddy6021@gmail.com**
 
-🌐 GitHub: https://github.com/Kommuru-Jayavardhan-Reddy
+🌐 GitHub: **https://github.com/Kommuru-Jayavardhan-Reddy**
 
 ---
 
-⭐ **If you found this project helpful, consider giving it a Star on GitHub!**
+⭐ **If you found this project useful, consider giving it a Star on GitHub!**
